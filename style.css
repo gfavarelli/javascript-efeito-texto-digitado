@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #000;
+}
+
+h1 {
+    color: #fff;
+    font-family: 'Harry Potter', sans-serif;
+}
+
+.dragao {
+    text-align: center;
+}
+
+.dragao img {
+    opacity: 0.5;
+}
