@@ -2,7 +2,6 @@ const textoElemento = document.getElementById('texto');
 const texto = '"Harry potter, foi selecionado"';
 let idx = 1;
 let idxDragao = 1;
-let opacityDragao = 0;
 let velocidade = 300 / 1;
 
 escreverTexto();
