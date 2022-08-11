@@ -1,5 +1,5 @@
 const textoElemento = document.getElementById('texto');
-const texto = '"Harry potter, foi selecionado"';
+const texto = '"A camara secreta foi aberta..."';
 let idx = 1;
 let idxDragao = 1;
 let velocidade = 300 / 1;
